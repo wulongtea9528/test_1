@@ -1,0 +1,12 @@
+[project]
+name = "paper"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "gradio>=4.44.1",
+    "huggingface-hub==0.23.2",
+    "requests>=2.32.5",
+]
